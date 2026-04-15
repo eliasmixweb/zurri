@@ -1,104 +1,80 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="¡La novia! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRFCTTdj9M2hukPKOU3vVNcDnDD.jpg" group-title="? VOD ESTRENOS 2026 ?",¡La novia! (2026)
+#EXTINF:7569,¡La novia! (2026)
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Outcome (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uriReigJBf5zVBNaHj5C9kDDTe.jpg" group-title="? VOD ESTRENOS 2026 ?",Outcome (2026)
-http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Problemista " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uNMGqWEBWvdoWzbffTvlsdyCti.jpg" group-title=" ? VOD ESTRENOS 2024 ?",Problemista 
-http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280722.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Recuerdos Mortales" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cd9GIxZHndapUwZgxV2uwVYGn0O.jpg" group-title=" ? VOD ESTRENOS 2024 ?",Recuerdos Mortales
-http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280721.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Empleada (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8ygUQ4YNd8iy0oEusS1bHI08A6.jpg" group-title=" ? VOD ESTRENOS 2025 ?",La Empleada (2025)
+#EXTINF:7881,La Empleada
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280661.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Gates " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGrVrokVCP6nvSnJeI905aw1nWz.jpg" group-title=" ? VOD ESTRENOS 2024 ?",The Gates 
+#EXTINF:6703,The Gates (2024) [Full 1080p] [Latino-Inglés] vip.hdlatino.us
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280662.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GOAT: La cabra que cambio el juego (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dH7p6eAfzDElYYFKfYWpf9xlsG.jpg" group-title="? VOD ESTRENOS 2026 ?",GOAT: La cabra que cambio el juego (2026)
-http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280659.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hoppers: Operacion castor (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NRpCaksHX0FEsXCNITOvhq7cZ3.jpg" group-title="? VOD CAM 2026 ?",Hoppers: Operacion castor (2026) CAM
-http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280660.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Super Mario Galaxy: La película (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLQQMO77ohibggTKV6wmFs5LHYf.jpg" group-title="? VOD CAM 2026 ?",Super Mario Galaxy: La película (2026) CAM
-http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La línea Roja (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jZkzmwSLaWO7GTWVjUsmv2SR9F.jpg" group-title="? VOD ESTRENOS 2026 ?",La línea Roja (2026)
+#EXTINF:8214,La línea roja
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280655.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Familia en Renta (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m22GgaSwlVg3ePh6Y25BquLXq4.jpg" group-title=" ? VOD ESTRENOS 2025 ?",Familia en Renta (2025)
-http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280629.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Abbott y Costello en la legion extranjera (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5sTLCpmqd6gWWbZ4cps9UkTKiN.jpg" group-title="? VOD CLÁSICAS ?",Abbott y Costello en la legion extranjera (1950)
-http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280558.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Abbott y Costello: Vuelven los reclutas (1947)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSp2sMdtEq3bVp2sU5FSOaGZPDG.jpg" group-title="? VOD CLÁSICAS ?",Abbott y Costello: Vuelven los reclutas (1947)
-http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280556.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Abbott y Costello: Los cabezudos (1945)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9UqzbJFpQyvo34CdDOAZtuudLO.jpg" group-title="? VOD CLÁSICAS ?",Abbott y Costello: Los cabezudos (1945)
-http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280557.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Abbott y Costello: Dos locos tras un fantasma (1941)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYI4gJvYt0zPdALsFcLxFMhuUBk.jpg" group-title="? VOD CLÁSICAS ?",Abbott y Costello: Dos locos tras un fantasma (1941)
-http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280559.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Más vivo que muerto (1954)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68mtOrrMkv3ijguFg2p9M92CDHy.jpg" group-title="? VOD CLÁSICAS ?",Más vivo que muerto (1954)
+#EXTINF:5412,Más vivo que muerto (1954)
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tú, mi conejo y yo (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPAFgEl0GFeLg7mNWRNhOD4t9JS.jpg" group-title="? VOD CLÁSICAS ?",Tú, mi conejo y yo (1958)
-http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280553.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Bocon (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3I4kcAH8colH2eEzziKCtXOsknC.jpg" group-title="? VOD CLÁSICAS ?",El Bocon (1967)
+#EXTINF:5879, mi conejo y yo (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPAFgEl0GFeLg7mNWRNhOD4t9JS.jpg" group-title="http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280553.mkv
+#EXTINF:6441,El Bocon 1967 1080p Latino (The Big Mouth)
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280554.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Artistas y Modelos (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jx2gS2xCmxgERLcefhOFayqYTR.jpg" group-title="? VOD CLÁSICAS ?",Artistas y Modelos (1955)
+#EXTINF:6544,Artistas y modelos
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280555.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zeta (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEFMZGcmxBDCodbLAqmrjdjCTwm.jpg" group-title="? VOD ESTRENOS 2026 ?",Zeta (2026)
+#EXTINF:8036,Zeta
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280425.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders: El hombre inmortal (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg" group-title="? VOD ESTRENOS 2026 ?",Peaky Blinders: El hombre inmortal (2026)
+#EXTINF:0,Peaky Blinders: El hombre inmortal (2026)
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280424.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Terror En Shelby Oaks (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7wsPyClttMEpQhAskpfMiaCSin.jpg" group-title=" ? VOD ESTRENOS 2025 ?",Terror En Shelby Oaks (2025)
+#EXTINF:0,Terror En Shelby Oaks (2025)
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280331.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Gran George Foreman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ue2W0lfk6DVCQCQc1d2k64xz1xh.jpg" group-title="? VOD DRAMA ?",El Gran George Foreman
+#EXTINF:0,El Gran George Foreman
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280330.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Caminos del crimen (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miotpWL3RXeTvLJnkhaoWcbXvJf.jpg" group-title="? VOD ESTRENOS 2026 ?",Caminos del crimen (2026)
+#EXTINF:0,Caminos del crimen (2026)
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280328.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Guardián: Último refugio (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg" group-title="? VOD ESTRENOS 2026 ?",El Guardián: Último refugio (2026)
+#EXTINF:0,El Guardián: Último refugio (2026)
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280329.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Vendedor de Sueños" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuVtTfsFjECeXzqhj8IvGItcf6B.jpg" group-title="? VOD DRAMA ?",El Vendedor de Sueños
+#EXTINF:0,El Vendedor de Sueños
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280324.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Highlander: Juego Final " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7iMI8yITHvLWKyYlQdIYQYfca3.jpg" group-title="? VOD AVENTURAS ?",Highlander: Juego Final 
+#EXTINF:0,Highlander: Juego Final 
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280325.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un Destino en Corea (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foEObhyAMM3dxYeBEr242EdQDB7.jpg" group-title="? VOD ESTRENOS 2026 ?",Un Destino en Corea (2026)
+#EXTINF:0,Un Destino en Corea (2026)
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280326.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Scream 7 (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XhV5Sk7w4h2tCNvXovkFfTNRli.jpg" group-title="? VOD CAM 2026 ?",Scream 7 (2026) CAM
+#EXTINF:0,Scream 7 (2026) CAM
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280299.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Styles: Una noche en Manchester (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AigpusxLychNPHCdB8jRVTEQ1kS.jpg" group-title="? VOD CONCIERTOS ?",Harry Styles: Una noche en Manchester (2026)
+#EXTINF:0,Harry Styles: Una noche en Manchester (2026)
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280262.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cuidado: Bebe suelto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxGoMGwxXyixPq9nBM5R6WRYElM.jpg" group-title="? VOD COMEDIA ?",Cuidado: Bebe suelto
+#EXTINF:0,Cuidado: Bebe suelto
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280241.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Matar Vengar Repetir (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg" group-title="? VOD ESTRENOS 2026 ?",Matar Vengar Repetir (2026)
+#EXTINF:0,Matar Vengar Repetir (2026)
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280239.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Maquina de Guerra (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aq2vbzxcG5K3SSLReMqO5TettmE.jpg" group-title="? VOD ESTRENOS 2026 ?",Maquina de Guerra (2026)
+#EXTINF:0,Maquina de Guerra (2026)
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280236.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Juego de la Fortuna" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ms9WEALWyumQ80Zkkb94gyUsjIZ.jpg" group-title="? VOD DRAMA ?",El Juego de la Fortuna
+#EXTINF:0,El Juego de la Fortuna
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280205.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La habitación de al Lado SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFeEXvKtKZ9wY3EMsR7yp9Izfej.jpg" group-title="? VOD ESTRENOS SUBTITULADOS ?",La habitación de al Lado SUB
+#EXTINF:0,La habitación de al Lado SUB
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280204.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Paul McCartney: Hombre a la Fuga (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6GhGmlEpWYwuY0ZfUPdtACTFdD.jpg" group-title="? VOD ESTRENOS SUBTITULADOS ?",Paul McCartney: Hombre a la Fuga (2026) SUB
+#EXTINF:0,Paul McCartney: Hombre a la Fuga (2026) SUB
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280203.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Foxter & Max: Un perro de otro Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PXQBpvaOjRr5Bz33RX2OrDEq3M.jpg" group-title="? VOD AVENTURAS ?",Foxter & Max: Un perro de otro Mundo
+#EXTINF:0,Foxter & Max: Un perro de otro Mundo
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280202.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jerarquia (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KVq24NkOn98nrSEAFphnRWVWNd.jpg" group-title=" ? VOD ESTRENOS 2025 ?",Jerarquia (2025)
+#EXTINF:0,Jerarquia (2025)
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280201.mkv
-#EXTINF:-1 tvg-id="" tvg-name="En un Instante (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r29MQ8wAe89iBhFdtTQb8vmtIsu.jpg" group-title="? VOD ESTRENOS 2026 ?",En un Instante (2026)
+#EXTINF:0,En un Instante (2026)
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ke Personajes: Viña 2026" tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="? VOD CONCIERTOS ?",Ke Personajes: Viña 2026
+#EXTINF:0,Ke Personajes: Viña 2026
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Juanes: Viña 2026" tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="? VOD CONCIERTOS ?",Juanes: Viña 2026
+#EXTINF:0,Juanes: Viña 2026
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mon Laferte: Viña 2026" tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="? VOD CONCIERTOS ?",Mon Laferte: Viña 2026
+#EXTINF:0,Mon Laferte: Viña 2026
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NMIXX: Viña 2026" tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="? VOD CONCIERTOS ?",NMIXX: Viña 2026
+#EXTINF:0,NMIXX: Viña 2026
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280162.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jesse & Joy: Viña 2026" tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="? VOD CONCIERTOS ?",Jesse & Joy: Viña 2026
+#EXTINF:0,Jesse & Joy: Viña 2026
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pet Shop Boys: Viña 2026" tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="? VOD CONCIERTOS ?",Pet Shop Boys: Viña 2026
+#EXTINF:0,Pet Shop Boys: Viña 2026
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280160.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gloria Estefan: Viña 2026" tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="? VOD CONCIERTOS ?",Gloria Estefan: Viña 2026
+#EXTINF:0,Gloria Estefan: Viña 2026
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280158.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Matteo Bocelli: Viña 2026" tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="? VOD CONCIERTOS ?",Matteo Bocelli: Viña 2026
+#EXTINF:0,Matteo Bocelli: Viña 2026
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280159.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cortafuego (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg" group-title="? VOD ESTRENOS 2026 ?",Cortafuego (2026)
+#EXTINF:0,Cortafuego (2026)
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280138.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Acusada (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkQJz9mhx9JHQbs8uRN86S6r4Ko.jpg" group-title="? VOD ESTRENOS 2026 ?",Acusada (2026)
+#EXTINF:0,Acusada (2026)
 http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280139.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores Del Fin Del Mundo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VTnUQx6nY3UsZUV0BQX5S6l1Nq.jpg" group-title=" ? VOD ESTRENOS 2025 ?",Cazadores Del Fin Del Mundo (2025)
-http://ultra-premium-pro.xyz:8080/movie/96485194/yedcu83e9/280086.mp4
+
 #EXTINF:-1, LOGO
 #EXTVLCOPT:network-caching=1000
 https://i.postimg.cc/3Rdtthzr/logo2-12-205725.png
