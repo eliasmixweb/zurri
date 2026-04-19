@@ -3,10 +3,6 @@
 #EXTVLCOPT:network-caching=1000
 https://www.laligaplus.laliga.com/
 
-#EXTINF:-1, LOGO
-#EXTVLCOPT:network-caching=1000
-https://i.postimg.cc/3Rdtthzr/logo2-12-205725.png
-
 #EXTINF:0,24/7 Canal de Noticias
 #EXTVLCOPT:network-caching=1000
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
