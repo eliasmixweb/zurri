@@ -1,485 +1,1098 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="The Bubble (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edYk5TSowZIDv138bCpF5ls3XI5.jpg" group-title="2022 Movies",The Bubble (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169291.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Contractor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJPGPZ5soaG27MK90oKpioSiJE2.jpg" group-title="2022 Movies",The Contractor (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169292.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Desperate Hour (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6Pg9eTklhg6Aa7kXaxrfdE1Chi.jpg" group-title="2021 Movies",The Desperate Hour (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/169293.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Ice Age Adventures of Buck Wild (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg" group-title="2022 Movies",The Ice Age Adventures of Buck Wild (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169295.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Outfit (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg" group-title="2022 Movies",The Outfit (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Umma (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg" group-title="2022 Movies",Umma (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169308.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ticket to Paradise (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tzERH50P5c2mFWtLbgixzLZS1L.jpg" group-title="2022 Movies",Ticket to Paradise (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/171052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Barbarian (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3N3j08ocxecz2gohfeecnZAFOt.jpg" group-title="2022 Movies",Barbarian (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/171053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Don't Worry Darling (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BXYLjXtSipBp2GfAlsri4i8hPC.jpg" group-title="2022 Movies",Don't Worry Darling (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/171054.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Good Nurse (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg" group-title="2022 Movies",The Good Nurse (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/171156.mp4
-#EXTINF:-1 tvg-id="fox17kdsm.us" tvg-name="US FOX 17 (KDSM) Des Moines " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US FOX 17 (KDSM) Des Moines 
-http://1tvnow.icu:8080/69490197/77762667/171157
-#EXTINF:-1 tvg-id="nbc13who.us" tvg-name="US NBC 13 (WHO) Des Moines (A)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC 13 (WHO) Des Moines (A)
-http://1tvnow.icu:8080/69490197/77762667/171158
-#EXTINF:-1 tvg-id="cbs8kcci.us" tvg-name="US CBS 8 (KCCI) Des Moines-Ames (A)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS 8 (KCCI) Des Moines-Ames (A)
-http://1tvnow.icu:8080/69490197/77762667/171159
-#EXTINF:-1 tvg-id="" tvg-name="US ABC 5 (WOI) West Des Moine (A)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US ABC 5 (WOI) West Des Moine (A)
-http://1tvnow.icu:8080/69490197/77762667/171160
-#EXTINF:-1 tvg-id="" tvg-name="See How They Run (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3rpSAi2yukZwr9H2km0WKGODWo.jpg" group-title="2022 Movies",See How They Run (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/171582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Woman King (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/438QXt1E3WJWb3PqNniK0tAE5c1.jpg" group-title="2022 Movies",The Woman King (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/171583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="My Policeman (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TJQmxsfC4LELFzxJmLQyTKvGxe.jpg" group-title="2022 Movies",My Policeman (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/171670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="On the Line (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KxRYXBsKROhhQUjycKPOxktCAy.jpg" group-title="2022 Movies",On the Line (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/171671.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Weird: The Al Yankovic Story (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg" group-title="2022 Movies",Weird: The Al Yankovic Story (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/171672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Causeway (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUzKIqFIS05Ss31zRTfZfHJIgDP.jpg" group-title="2022 Movies",Causeway (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/171673.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg" group-title="2022 Movies",Enola Holmes 2 (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/171678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="R.I.P.D. 2: Rise of the Damned (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4yJTzMtOBUTAR2Qnmj8TYIcFVq.jpg" group-title="2022 Movies",R.I.P.D. 2: Rise of the Damned (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/171906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Lost King (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvteSajbZguotujz0e4Y8JpgJ1G.jpg" group-title="2022 Movies",The Lost King (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/171907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CA Global Maritimes HD " tvg-logo="" group-title="CANADA",CA Global Maritimes HD 
-http://1tvnow.icu:8080/69490197/77762667/171954
-#EXTINF:-1 tvg-id="" tvg-name="Smile (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg" group-title="2022 Movies",Smile (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/172066.mp4
-#EXTINF:-1 tvg-id="fetv.us" tvg-name="US Family Entertainment Television " tvg-logo="" group-title="USA ",US Family Entertainment Television 
-http://1tvnow.icu:8080/69490197/77762667/172481
-#EXTINF:-1 tvg-id="" tvg-name="TÁR (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg" group-title="2022 Movies",TÁR (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/172537.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Emily (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgVBMIiJczfBWINRRd9yxE8ESln.jpg" group-title="2022 Movies",Emily (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/172538.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Poker Face (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8a2MIBV9LuPYbF5rOEAohjjMz9P.jpg" group-title="2022 Movies",Poker Face (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/172539.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Black Adam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zXceNTtyj5FLjwQXuPvLYK5YYL.jpg" group-title="2022 Movies",Black Adam (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/172540.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Call Jane (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvszf2XFx30LxzUhEDkecCp1DPh.jpg" group-title="2022 Movies",Call Jane (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/172552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Wonder (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npBvD1rRQHYGrxuwr2OrzXLso1w.jpg" group-title="2022 Movies",The Wonder (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/172553.mp4
-#EXTINF:-1 tvg-id="abckatv.us" tvg-name="US ABC 7 (KATV) Little Rock (H)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US ABC 7 (KATV) Little Rock (H)
-http://1tvnow.icu:8080/69490197/77762667/172655
-#EXTINF:-1 tvg-id="" tvg-name="US abc9 (WTVA) Tupelo " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US abc9 (WTVA) Tupelo 
-http://1tvnow.icu:8080/69490197/77762667/173099
-#EXTINF:-1 tvg-id="cbs4wcbi.us" tvg-name="US CBS 4 (WCBI) Tupelo (F)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS 4 (WCBI) Tupelo (F)
-http://1tvnow.icu:8080/69490197/77762667/173100
-#EXTINF:-1 tvg-id="nbc13wnyt.us" tvg-name="US NBC (WALB) Albany (F)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC (WALB) Albany (F)
-http://1tvnow.icu:8080/69490197/77762667/173119
-#EXTINF:-1 tvg-id="hpitv.ca" tvg-name="CA HPItv East HD " tvg-logo="" group-title="CANADA",CA HPItv East HD 
-http://1tvnow.icu:8080/69490197/77762667/173131
-#EXTINF:-1 tvg-id="" tvg-name="Armageddon Time (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bVjSEaLsUxUZ4Dutz9qRF5zXyd.jpg" group-title="2022 Movies",Armageddon Time (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/173133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Christmas Story Christmas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QeoDiiIFY9VF87Rm79WpCFZbwf.jpg" group-title="2022 Movies",A Christmas Story Christmas (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/173134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spirited (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg" group-title="2022 Movies",Spirited (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/173135.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lamborghini: The Man Behind the Legend (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RKgnYLhCNGCUkrhiCRrs40rEHe.jpg" group-title="2022 Movies",Lamborghini: The Man Behind the Legend (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/173136.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Slumberland (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f18kgonrgr8YvEuvshExS4XBGL8.jpg" group-title="2022 Movies",Slumberland (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/173137.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Disenchanted (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4x3pt6hoLblBeHebUa4OyiVXFiM.jpg" group-title="2022 Movies",Disenchanted (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/173138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lyle, Lyle, Crocodile (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irIS5Tn3TXjNi1R9BpWvGAN4CZ1.jpg" group-title="2022 Movies",Lyle, Lyle, Crocodile (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/173139.mkv
-#EXTINF:-1 tvg-id="" tvg-name="COL: TELECARIBE HD" tvg-logo="" group-title="Colombia",COL: TELECARIBE HD
-http://1tvnow.icu:8080/69490197/77762667/173301
-#EXTINF:-1 tvg-id="abcwtvg.us" tvg-name="US ABC 13 (WTVG) Toledo " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US ABC 13 (WTVG) Toledo 
-http://1tvnow.icu:8080/69490197/77762667/173830
-#EXTINF:-1 tvg-id="" tvg-name="Troll (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9z4jRr43JdtU66P0iy8h18OyLql.jpg" group-title="2022 Movies",Troll (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/173899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Guardians of the Galaxy Holiday Special (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg" group-title="2022 Movies",The Guardians of the Galaxy Holiday Special (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/173900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="All Quiet on the Western Front (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg" group-title="2022 Movies",All Quiet on the Western Front (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/173901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="She Said (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg" group-title="2022 Movies",She Said (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/173913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Emancipation (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg" group-title="2022 Movies",Emancipation (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/173914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Christmas Bloody Christmas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuDD5K0r9AC5MMCxMUVjHPyXn3h.jpg" group-title="2022 Movies",Christmas Bloody Christmas (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/173915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg" group-title="2022 Movies",Guillermo del Toro's Pinocchio (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/174168.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Prey for the Devil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3s6XEDNVGq5LUlghqs6VlvsvL6.jpg" group-title="2022 Movies",Prey for the Devil (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/174199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Banshees of Inisherin (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCdYZtOZZTqXTyQFfw0i0W4K5Rv.jpg" group-title="2022 Movies",The Banshees of Inisherin (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/174201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bones and All (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBQuk2LkHjrDsSjueirPQg96GCc.jpg" group-title="2022 Movies",Bones and All (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/174202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Fabelmans (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2IywyOPS78vEnJvwVqkVRTiNC1.jpg" group-title="2022 Movies",The Fabelmans (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/174203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Renegades (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QvhJsoFbcWsrY0iXGhZTKQaQAr.jpg" group-title="2022 Movies",Renegades (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/174242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mindcage (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JvqaHXdKBtEAmm4EDVTGkoAGIj.jpg" group-title="2022 Movies",Mindcage (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/174243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nanny (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qioumLk62Ot1mh9Vom1TXYky6W.jpg" group-title="2022 Movies",Nanny (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/174252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="High Heat (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKagJQQTViFNFNarcVp8xOSXIbh.jpg" group-title="2022 Movies",High Heat (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/174542.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Apology (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqH23XXiGGg8b8QKitonZAoWQg3.jpg" group-title="2022 Movies",The Apology (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/174543.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Violent Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhXjUvOvq7rJlvJFCrZMUUJ9Mn0.jpg" group-title="2022 Movies",Violent Night (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/174756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Strange World (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPywkW1dfDer6GxxTvjwOTsAVud.jpg" group-title="2022 Movies",Strange World (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/174855.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Glass Onion: A Knives Out Mystery (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg" group-title="2022 Movies",Glass Onion: A Knives Out Mystery (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/174856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="White Noise (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1a48bfLQm57ByADdw05uRMoFCZc.jpg" group-title="2022 Movies",White Noise (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/175251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Puss in Boots: The Last Wish (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmf0zzR7ritjOL3qumRh3hfvOFK.jpg" group-title="2023 Movies",Puss in Boots: The Last Wish (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/175417.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Pale Blue Eye (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg" group-title="2023 Movies",The Pale Blue Eye (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/175418.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Devotion (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnAtWpSZCMdqgmIaLwsY9Ox17ik.jpg" group-title="2023 Movies",Devotion (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/175541.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Menu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg" group-title="2023 Movies",The Menu (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/175542.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loose Change (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQjnEs4AFxOnTHN9B10p0UrHqxg.jpg" group-title="2023 Movies",Loose Change (2005)
-http://1tvnow.icu:8080/movie/69490197/77762667/175810.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Terminator (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdYu7YJJP0uuGEuhUX5toqvBSog.jpg" group-title="The Terminator 5 Movie Collection",The Terminator (1984)
-http://1tvnow.icu:8080/movie/69490197/77762667/183127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Terminator 2: Judgment Day (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5M0j0B18abtBI5gi2RhfjjurTqb.jpg" group-title="The Terminator 5 Movie Collection",Terminator 2: Judgment Day (1991)
-http://1tvnow.icu:8080/movie/69490197/77762667/183128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Antlers (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMch3tiexw3FdOEeZxMWVel61Xg.jpg" group-title="2021 Movies",Antlers (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Awake (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZkNbB8isWXHMDNoIbqXvmslBMC.jpg" group-title="2021 Movies",Awake (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruised (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axibOQF9QnThrr8M37ufAYurP4R.jpg" group-title="2021 Movies",Bruised (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Copshop (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szArp3dQlVajpsqpyPFVAFHFsa3.jpg" group-title="2021 Movies",Copshop (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cry Macho (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzJBmh8U5ofExJara4nrdqlW8f3.jpg" group-title="2021 Movies",Cry Macho (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dangerous (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTtkQGC7qKlSRQJZYtAWAmYdH0A.jpg" group-title="2021 Movies",Dangerous (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Don't Breathe 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg" group-title="2021 Movies",Don't Breathe 2 (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Don't Look Up (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg" group-title="2021 Movies",Don't Look Up (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Encounter (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg" group-title="2021 Movies",Encounter (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Enemy of the State (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg" group-title="2021 Movies",Enemy of the State (1998)
-http://1tvnow.icu:8080/movie/69490197/77762667/168936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escape Room: Tournament of Champions (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg" group-title="2021 Movies",Escape Room: Tournament of Champions (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eternals (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg" group-title="2021 Movies",Eternals (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Extinct (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg" group-title="2021 Movies",Extinct (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eye Without a Face (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg" group-title="2021 Movies",Eye Without a Face (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fatherhood (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg" group-title="2021 Movies",Fatherhood (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Finch (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg" group-title="2021 Movies",Finch (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Friends: The Reunion (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg" group-title="2021 Movies",Friends: The Reunion (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gaia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg" group-title="2021 Movies",Gaia (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters: Afterlife (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCTn3IA729UuyvB4rY65fiOOzUv.jpg" group-title="2021 Movies",Ghostbusters: Afterlife (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Girls Trip (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fM1h8CwtdileV3zlemXx7UWJjOP.jpg" group-title="2021 Movies",Girls Trip (2017)
-http://1tvnow.icu:8080/movie/69490197/77762667/168947.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Great White (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wEVked59Y00NKK4Vj0FgzUzdPH.jpg" group-title="2021 Movies",Great White (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Halloween Kills (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg" group-title="2021 Movies",Halloween Kills (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter 20th Anniversary: Return to Hogwarts (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jntLBq0MLR3hrwKaTQswxACRPMs.jpg" group-title="2021 Movies",Harry Potter 20th Anniversary: Return to Hogwarts (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/168950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hell Hath No Fury (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wltdRZfeKDux9yKThlGKwjWhUil.jpg" group-title="2021 Movies",Hell Hath No Fury (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hypnotic (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miEj4kNc4efZ5WbPJqWl1UXWrvS.jpg" group-title="2021 Movies",Hypnotic (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="I Am All Girls (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voQLcqp0ehF3md93hMpELCRxTDv.jpg" group-title="2021 Movies",I Am All Girls (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168953.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Injustice (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzrSeqqpm1BwJ3tcTznztBtLLSD.jpg" group-title="2021 Movies",Injustice (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Intrusion (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6ozTBflWXlBje0uxJv4m6s4HTq.jpg" group-title="2021 Movies",Intrusion (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Joe Bell (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HfQD60w6f6PPkfdiI6ipJSw0bD.jpg" group-title="2021 Movies",Joe Bell (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jolt (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYZAHan5CHPFXORpQMvOjCTug4E.jpg" group-title="2021 Movies",Jolt (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jungle Cruise (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg" group-title="2021 Movies",Jungle Cruise (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kate (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJgdT1boTSP0dDIjdTgGleg71l4.jpg" group-title="2021 Movies",Kate (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lamb (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJgdT1boTSP0dDIjdTgGleg71l4.jpg" group-title="2021 Movies",Lamb (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/168963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Last Looks (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ud0XdA2xAghDR66j3I84DnNlC2g.jpg" group-title="2021 Movies",Last Looks (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/168964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Last Man Down (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg" group-title="2021 Movies",Last Man Down (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mainstream (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KXWDsbbp2dcjMNzYRzkuRfrpzc.jpg" group-title="2021 Movies",Mainstream (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168970.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Free Guy (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg" group-title="2021 Movies",Free Guy (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168978.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nine Days (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kl8J3WvzJq6QGX7qNmP0ps4ZTSO.jpg" group-title="2021 Movies",Nine Days (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168983.avi
-#EXTINF:-1 tvg-id="" tvg-name="Nobody (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg" group-title="2021 Movies",Nobody (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168987.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Occupation: Rainfall (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpq8XjZ3ZalcbqWOYIdqcV7FbIJ.jpg" group-title="2021 Movies",Occupation: Rainfall (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168989.avi
-#EXTINF:-1 tvg-id="" tvg-name="Old (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vclShucpUmPhdAOmKgf3B3Z4POD.jpg" group-title="2021 Movies",Old (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168990.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Old Henry (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg" group-title="2021 Movies",Old Henry (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168991.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Prisoners of the Ghostland (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5HRzcvN1QXZLvwfc3NLxX8XQJY.jpg" group-title="2021 Movies",Prisoners of the Ghostland (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/168999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Reminiscence (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17siH6wJRQ2jZiqz9BWUhy1UtZ.jpg" group-title="2021 Movies",Reminiscence (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/169002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Respect (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUtPwOBZJc8uJnDqlCXTibdgxKz.jpg" group-title="2021 Movies",Respect (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/169004.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Stowaway (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOscLK7KzEPDdi1P8RmevGIjOSp.jpg" group-title="2021 Movies",Stowaway (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/169024.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The House Next Door: Meet the Blacks 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Yo3wwbzlKLgzH7Wd8YZniNYC24.jpg" group-title="2021 Movies",The House Next Door: Meet the Blacks 2 (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/169041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Lost Daughter (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg" group-title="2021 Movies",The Lost Daughter (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/169045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The.Protege.2021.WEBRip.x264-ION10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg" group-title="2021 Movies",The.Protege.2021.WEBRip.x264-ION10
-http://1tvnow.icu:8080/movie/69490197/77762667/169053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry Cowboy Up! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muIaHotSaSUQr0KZCIJOYQEe7y2.jpg" group-title="2021 Movies",Tom and Jerry Cowboy Up! (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169068.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tom Clancy's Without Remorse (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GCOpT8QcNzup09TAMmvvk22LTR.jpg" group-title="2021 Movies",Tom Clancy's Without Remorse (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/169079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Worth (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMFKTgRRCxfZGmFQVxBsQYAQufo.jpg" group-title="2021 Movies",Worth (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/169081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="About Fate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fabZkaVHYJ67KbZx7oFoitauX34.jpg" group-title="2022 Movies",About Fate (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bandit (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yph9PAbmjYPvyvbeZvdYIhCZHEu.jpg" group-title="2022 Movies",Bandit (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beast (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIGr7UHsKf0URWmyyd5qFMAq4d8.jpg" group-title="2022 Movies",Beast (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169089.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blonde (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg" group-title="2022 Movies",Blonde (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169091.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bodies Bodies Bodies (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uU3YoLSaVBOaMryzhuiiRWDFbIw.jpg" group-title="2022 Movies",Bodies Bodies Bodies (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169092.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Breaking (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKbgbzJbVM7MLjN7EwdO1QcIXCz.jpg" group-title="2022 Movies",Breaking (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169093.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bullet Train (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVxDe01Zy3kZqaZRNiXFGDICdZk.jpg" group-title="2022 Movies",Bullet Train (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169094.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carter (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzAh3Ub2YttCz13cnyB9PvhpmIL.jpg" group-title="2022 Movies",Carter (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Choose or Die (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEYE5BPFd5FuPa1judcjpW6xqKp.jpg" group-title="2022 Movies",Choose or Die (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169096.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Confess, Fletch (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dqEk1X8rHSOWWfnVEuzgXj24Mr.jpg" group-title="2022 Movies",Confess, Fletch (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169098.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Day Shift (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bI7lGR5HuYlENlp11brKUAaPHuO.jpg" group-title="2022 Movies",Day Shift (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DC League of Super-Pets (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7XifzvtezNt31ypvsmb6Oqxw49.jpg" group-title="2022 Movies",DC League of Super-Pets (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dead for a Dollar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AnXfjxFqMsQmUPSvt9YxUJhfFw.jpg" group-title="2022 Movies",Dead for a Dollar (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deus.The.Dark.Sphere.2022.WEBRip.x264-ION10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AnXfjxFqMsQmUPSvt9YxUJhfFw.jpg" group-title="2022 Movies",Deus.The.Dark.Sphere.2022.WEBRip.x264-ION10
-http://1tvnow.icu:8080/movie/69490197/77762667/169102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dig (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntD0ieBgZ1AlV0tAam3aeFDH6k7.jpg" group-title="2022 Movies",Dig (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Elvis (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg" group-title="2022 Movies",Elvis (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Emeregency.2022.WEBRip.x264-ION10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg" group-title="2022 Movies",Emeregency.2022.WEBRip.x264-ION10
-http://1tvnow.icu:8080/movie/69490197/77762667/169106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Emily the Criminal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZvzMpREGiqDQ5eYbx8z70qPgst.jpg" group-title="2022 Movies",Emily the Criminal (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Everything Everywhere All at Once (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg" group-title="2022 Movies",Everything Everywhere All at Once (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169108.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fall (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spCAxD99U1A6jsiePFoqdEcY0dG.jpg" group-title="2022 Movies",Fall (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fantastic Beasts: The Secrets of Dumbledore (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3c5GNLB4yRSLBby0trHoA1DSQxQ.jpg" group-title="2022 Movies",Fantastic Beasts: The Secrets of Dumbledore (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Father Stu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLAeWgqXbTeJ2gQtNvRmdIncYsk.jpg" group-title="2022 Movies",Father Stu (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Glorious (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="2022 Movies",Glorious (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="God's Country (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZp190Qx33oRO8KGSkO1sFjEqC2.jpg" group-title="2022 Movies",God's Country (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="God's Creatures (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xjkwZ8EwDzZ3dsQRvyW1fntqXT.jpg" group-title="2022 Movies",God's Creatures (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Goodnight Mommy (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHhD5jD4S5ElPNNFCDKXJAzMZ5h.jpg" group-title="2022 Movies",Goodnight Mommy (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hellraiser (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg" group-title="2022 Movies",Hellraiser (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169119.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hocus Pocus 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg" group-title="2022 Movies",Hocus Pocus 2 (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169120.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Honor Society (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61CZ4JxyaI462sFfLPhtyzRg4vv.jpg" group-title="2022 Movies",Honor Society (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="I Came By (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/856bLLUvEYu3dRDXCCoRE7oxO0V.jpg" group-title="2022 Movies",I Came By (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="I Used to Be Famous (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg" group-title="2022 Movies",I Used to Be Famous (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Infinite Storm (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4B34NKfHCFVHriYfKhbsunHYl4x.jpg" group-title="2022 Movies",Infinite Storm (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers: Reborn (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGBuiirBIQ7o64FmJxO53eYDuro.jpg" group-title="2022 Movies",Jeepers Creepers: Reborn (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lou (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djM2s4wSaATn4jVB33cV05PEbV7.jpg" group-title="2022 Movies",Lou (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luck (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HOYvwGFioUFL58UVvDRG6beEDm.jpg" group-title="2022 Movies",Luck (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luckiest Girl Alive (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0vrbTmTf2ZcW5CIS9qJ8FDbsU9.jpg" group-title="2022 Movies",Luckiest Girl Alive (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Me Time (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkjPoisqAavXUvtoirxTEcLLQyI.jpg" group-title="2022 Movies",Me Time (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169135.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meet Cute (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NBlso3DuV3frqOzLZ4UYPMTqYu.jpg" group-title="2022 Movies",Meet Cute (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169136.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minions: The Rise of Gru (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg" group-title="2022 Movies",Minions: The Rise of Gru (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mrs. Harris Goes to Paris (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUg0HDLhTEDcXGBU2iK6QRBILv4.jpg" group-title="2022 Movies",Mrs. Harris Goes to Paris (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169140.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nope (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg" group-title="2022 Movies",Nope (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Not Okay (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1q3FkqFHBkMeKnHiS6GYgdLvUs.jpg" group-title="2022 Movies",Not Okay (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Way (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQCxOziq79P3wDsRwQhhkhQyDsJ.jpg" group-title="2022 Movies",One Way (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Operation Mincemeat (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nqmynyrp48wcaE2kRSx24Jf1KJ.jpg" group-title="2022 Movies",Operation Mincemeat (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Orphan: First Kill (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHkKbIRoCe7zIFvqan9LFSaQAde.jpg" group-title="2022 Movies",Orphan: First Kill (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Paradise Highway (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ahZgaFAbWoKMfJHhmhZDrdStgD.jpg" group-title="2022 Movies",Paradise Highway (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Paws of Fury: The Legend of Hank (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMDUDwAArpfGdtTTZ25SfwngGwt.jpg" group-title="2022 Movies",Paws of Fury: The Legend of Hank (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8sclIV4gj1TZqUpnL82hKOTK3B.jpg" group-title="2022 Movies",Pinocchio (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Prey (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg" group-title="2022 Movies",Prey (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rise of the Teenage Mutant Ninja Turtles: The Movie (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSmTqtb7gICeRwvsEmq0uJxR4XU.jpg" group-title="2022 Movies",Rise of the Teenage Mutant Ninja Turtles: The Movie (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rogue Agent (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tOaGR6mzUAEQzIgWCeVoneRIkp.jpg" group-title="2022 Movies",Rogue Agent (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Samaritan (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwq5iboxYoaSpOmEQrhq9tHicq7.jpg" group-title="2022 Movies",Samaritan (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Secret Headquarters (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PsHogUfvjWPGdWAI5uslDhHDx7.jpg" group-title="2022 Movies",Secret Headquarters (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Senior Year (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UqbcDQhCYpxboK58Z0eVfdeHcT.jpg" group-title="2022 Movies",Senior Year (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169158.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Shark Bait (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVUgMgVozyFScDM3quP412kXrT.jpg" group-title="2022 Movies",Shark Bait (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169159.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Significant Other (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liGvBdUsyOfiTJjNCD55JJfISzb.jpg" group-title="2022 Movies",Significant Other (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169160.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Silverton Siege (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HruMN0vvl84AqD7sCDXFNO4RhP.jpg" group-title="2022 Movies",Silverton Siege (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Speak No Evil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzO4cKgvz4SIpI3Zw5RfAR0aMUS.jpg" group-title="2022 Movies",Speak No Evil (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spin Me Round (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQ3EWU329YDGi4BOrEHpopq0BZi.jpg" group-title="2022 Movies",Spin Me Round (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Bad Guys (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg" group-title="2022 Movies",The Bad Guys (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Batman (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg" group-title="2022 Movies",The Batman (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Black Phone (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lr11mCT85T1JanlgjMuhs9nMht4.jpg" group-title="2022 Movies",The Black Phone (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169168.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Cellar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtfGeS5WMXA6PtikIYUmYTSbVdg.jpg" group-title="2022 Movies",The Cellar (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169170.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Enforcer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXC8JJbfnRWtbD8i2yKFqqWEO4X.jpg" group-title="2022 Movies",The Enforcer (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Forgiven (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="2022 Movies",The Forgiven (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/169172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Gray Man (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Eom3JsXgQlCj6QIsGCwXkX7wyH.jpg" group-title="2022 Movies",The Gray Man (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169173.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Greatest Beer Run Ever (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggf37TpcKaxwguhvtNn6MQpyqBn.jpg" group-title="2022 Movies",The Greatest Beer Run Ever (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169174.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Harbinger (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7qlOysRTnpNKi3aWdTrzF2BrbV.jpg" group-title="2022 Movies",The Harbinger (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169175.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Immaculate Room (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8L3Kb4C7h1g8L1I3OP5aUWHHMRG.jpg" group-title="2022 Movies",The Immaculate Room (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Infernal Machine (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg" group-title="2022 Movies",The Infernal Machine (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169177.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Inhabitant (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmC9FrsqwSwsiR9TyEaTFFgxmxK.jpg" group-title="2022 Movies",The Inhabitant (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Invitation (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcTq6gIskCsHlKDvCKKouEfiU66.jpg" group-title="2022 Movies",The Invitation (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Lost City (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg" group-title="2022 Movies",The Lost City (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169180.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Munsters (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJaEVFhDouD72GKANMkYqzQky9n.jpg" group-title="2022 Movies",The Munsters (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169182.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Northman (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7om9c9ouQlFFskrraj8I1DqR3UL.jpg" group-title="2022 Movies",The Northman (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Sea Beast (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg" group-title="2022 Movies",The Sea Beast (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169186.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Visitor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FchVTEnjQw6m5NnQBa8QwjUv6T.jpg" group-title="2022 Movies",The Visitor (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="They/Them (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85TJ4udfUOwFIlvQL6EMFvvbvN5.jpg" group-title="2022 Movies",They/Them (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thirteen Lives (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg" group-title="2022 Movies",Thirteen Lives (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169190.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thor: Love and Thunder (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg" group-title="2022 Movies",Thor: Love and Thunder (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Three Thousand Years of Longing (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8q6BrcwGEBGbtwtbCUVKEt2lmEy.jpg" group-title="2022 Movies",Three Thousand Years of Longing (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Top Gun: Maverick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62HCnUTziyWcpDaBO2i1DX17ljH.jpg" group-title="2022 Movies",Top Gun: Maverick (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169193.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Uncharted (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg" group-title="2022 Movies",Uncharted (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Untrapped: The Story of Lil Baby (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3nPjrNXdDTG9d0mJcLwwUI9EiA.jpg" group-title="2022 Movies",Untrapped: The Story of Lil Baby (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vengeance (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1SlTeEv3dNJB3gF9AHAVElQ6LO.jpg" group-title="2022 Movies",Vengeance (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vesper (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLrfEvJhQP3SubJR9SYwHWE9tlZ.jpg" group-title="2022 Movies",Vesper (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Where the Crawdads Sing (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6h5OCqRnWH7Dcm4IeP4JypBdtuI.jpg" group-title="2022 Movies",Where the Crawdads Sing (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wire Room (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9ykj4v8ykjRoGB7SpI1OuxblNU.jpg" group-title="2022 Movies",Wire Room (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wyrmwood: Apocalypse (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FejR8s7E1BYkWRFZ9sPTNHKkxT.jpg" group-title="2022 Movies",Wyrmwood: Apocalypse (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7YPhQKdcr6XB1kCUdS4tHifYWd.jpg" group-title="2022 Movies",X (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2000 Mules (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7YPhQKdcr6XB1kCUdS4tHifYWd.jpg" group-title="2022 Movies",2000 Mules (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agent Game (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXJFjgcV7ESRHUSxZiBA4PzRMIx.jpg" group-title="2022 Movies",Agent Game (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alice (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7akDcAHfp7Lkmuq2ygzNzOhWq8M.jpg" group-title="2022 Movies",Alice (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="All the Old Knives (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4tMniKxol1TBJrHlAtiDjjlx4Q.jpg" group-title="2022 Movies",All the Old Knives (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Apollo 10½:  A Space Age Childhood (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43EQZnWP9znGqTKfO4BsPALXVYa.jpg" group-title="2022 Movies",Apollo 10½:  A Space Age Childhood (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Barbarians (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6Fvq7YWgdYx5rUfwieZMJet3cv.jpg" group-title="2021 Movies",Barbarians (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/169224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Better Nate Than Ever (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55gkFbie2Nbudo21rDpi6zG0XvC.jpg" group-title="2022 Movies",Better Nate Than Ever (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chip 'n Dale: Rescue Rangers (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg" group-title="2022 Movies",Chip 'n Dale: Rescue Rangers (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Death on the Nile (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg" group-title="2022 Movies",Death on the Nile (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hotel Transylvania: Transformania (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg" group-title="2022 Movies",Hotel Transylvania: Transformania (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169244.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Crimes of the Future (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSx6t4mj1FT4ePqPYHW287SmNa1.jpg" group-title="2022 Movies",Crimes of the Future (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Father of the Bride (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYglNgV8BYrDxaXPMwi7jCecAdt.jpg" group-title="2022 Movies",Father of the Bride (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Good Luck to You, Leo Grande (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wQydIQYho2wz1suPOoPoNgMzCm.jpg" group-title="2022 Movies",Good Luck to You, Leo Grande (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hustle (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWic7kPq13oRxYjbGLApXCnc7pz.jpg" group-title="2022 Movies",Hustle (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ip Man: The Awakening (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7vhdyGrpPMKXsuFBZzxmave94F.jpg" group-title="2021 Movies",Ip Man: The Awakening (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/169252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mad God (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEULzxEZvrJvhz91wKxpbih25Sk.jpg" group-title="2022 Movies",Mad God (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169254.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spiderhead (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hTK0J9SGPLSTFwcbU0ELlJsnAY.jpg" group-title="2022 Movies",Spiderhead (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169255.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Lost Girls (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EZn9mAaEHxKXZvxPqzr7ILpQy0.jpg" group-title="2022 Movies",The Lost Girls (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169256.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Watcher (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXCjoI3jdtBrwPHgVsyNLkl8Rvs.jpg" group-title="2022 Movies",Watcher (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169260.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Last Survivors (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LcUUUVsbCtNeTmf4dVG2kAcgcV.jpg" group-title="2022 Movies",Last Survivors (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Marry Me (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ko1JVbGj4bT8IhCWqjBQ6ZtF2t.jpg" group-title="2022 Movies",Marry Me (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Moonfall (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg" group-title="2022 Movies",Moonfall (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169270.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Moonshot (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thqgzBPEDYQX0taszVus5nYMtTZ.jpg" group-title="2022 Movies",Moonshot (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169271.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Munich: The Edge of War (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SOiUTDnwW9gU4GzSIsOCQUlHJF.jpg" group-title="2022 Movies",Munich: The Edge of War (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169273.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pirates (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uK99A6IUVaCjq6YVMcgvK30YYj.jpg" group-title="2021 Movies",Pirates (2021)
-http://1tvnow.icu:8080/movie/69490197/77762667/169277.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Texas Chainsaw Massacre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8vYPpkUJpf5Ils99kxF0Ev73ay.jpg" group-title="2022 Movies",Texas Chainsaw Massacre (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169288.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Adam Project (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg" group-title="2022 Movies",The Adam Project (2022)
-http://1tvnow.icu:8080/movie/69490197/77762667/169290.mp4
+#EXTINF:25,Cine adrenalina
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
+#EXTINF:54,Cine Aliens (720p)
+#EXTVLCOPT:network-caching=1000
+https://9d597739.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0JpenphcnJvTW92aWVzX0hMUw/playlist.m3u8
+#EXTINF:0,Cine Amor
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
+#EXTINF:0,Cine aventura
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
+#EXTINF:0,Cine Clásico
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64b9671cdac71b0008f371df.m3u8
+#EXTINF:0,Cine comedia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
+#EXTINF:0,Cine Crimen
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-686c1c873ffa5e0c91a85938.m3u8
+#EXTINF:0,Cine en Espanol (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8
+#EXTINF:0,Cine en español
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
+#EXTINF:0,Cine Estrella (1080p)
+#EXTVLCOPT:network-caching=1000
+https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
+#EXTINF:59,Cine Romantico (720p)
+#EXTVLCOPT:network-caching=1000
+https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_channelId=88886011
+#EXTINF:96,Cine Sony (720p)
+#EXTVLCOPT:network-caching=1000
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:0,Cine terror
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
+#EXTINF:25,Pluto TV Alien Invasion
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8
+#EXTINF:0,Pluto TV Alien Invasion
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6462190b7cb4b1000862dd60.m3u8
+#EXTINF:24,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
+#EXTINF:0,Pluto TV Aventura
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
+#EXTINF:0,Pluto TV Cine Acción
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
+#EXTINF:0,Pluto TV Cine Acción
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
+#EXTINF:0,Pluto TV Cine Clásico
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
+#EXTINF:0,Pluto TV Cine Clásico
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8
+#EXTINF:0,Pluto TV Cine Clássicos
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
+#EXTINF:0,Pluto TV Cine Comedia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
+#EXTINF:0,Pluto TV Cine Comedia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
+#EXTINF:0,Pluto TV Cine Comédia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
+#EXTINF:0,Pluto TV Cine Comédia Romântica
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
+#EXTINF:25,Pluto TV Cine Crimen
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
+#EXTINF:0,Pluto TV Cine de autor
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
+#EXTINF:0,Pluto TV Cine Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
+#EXTINF:0,Pluto TV Cine Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
+#EXTINF:0,Pluto TV Cine Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
+#EXTINF:0,Pluto TV Cine Estelar
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
+#EXTINF:0,Pluto TV Cine Estelar
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
+#EXTINF:0,Pluto TV Cine Estelar+
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-ESAJ3800001KT?.m3u8
+#EXTINF:0,Pluto TV Cine Familia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
+#EXTINF:0,Pluto TV Cine Inspirador
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
+#EXTINF:0,Pluto TV Cine Romance
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
+#EXTINF:0,Pluto TV Cine Romance
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
+#EXTINF:0,Pluto TV Cine Romántico
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
+#EXTINF:0,Pluto TV Cine Família
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
+#EXTINF:0,Pluto TV Cine Suspenso
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
+#EXTINF:0,Pluto TV Cine Terror
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
+#EXTINF:0,Pluto TV Cine Terror
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
+#EXTINF:0,Pluto TV Comedia made in Spain
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
+#EXTINF:0,Pluto TV Comedias Románticas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
+#EXTINF:0,Pluto TV Competencias
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8
+#EXTINF:0,Pluto TV Competition
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
+#EXTINF:0,Pluto TV Criaturas Malditas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6838a98df9bd067a38d1b8f7.m3u8
+#EXTINF:0,Pluto TV Crime Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
+#EXTINF:0,Pluto TV Crime Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8
+#EXTINF:30,Pluto TV Deportes
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:0,Pluto TV Diseño
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
+#EXTINF:0,Pluto TV Documentales
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
+#EXTINF:0,Pluto TV Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8
+#EXTINF:0,Pluto TV Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
+#EXTINF:0,Pluto TV Drama Movies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8
+#EXTINF:0,Pluto TV E-Sports
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
+#EXTINF:25,Pluto TV Eros
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66335489307fa300082bd6e4.m3u8
+#EXTINF:0,Pluto TV Estilo de Vida
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
+#EXTINF:0,Pluto TV Film Thriller
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
+#EXTINF:0,Pluto TV Futbol Para Fans (1080p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
+#EXTINF:0,Pluto TV Gasolina
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65bd0f53dc10a40008e68b96.m3u8
+#EXTINF:0,Pluto TV Historia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
+#EXTINF:0,Pluto TV Historia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
+#EXTINF:25,Pluto TV Humor
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
+#EXTINF:25,Pluto TV Impacto
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68adc697116b783a33f99e6c.m3u8
+#EXTINF:0,Pluto TV In Love
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-677f92205b68381e2db8cff2.m3u8
+#EXTINF:0,Pluto TV Inside
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
+#EXTINF:0,Pluto TV Inside+
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-GBAK3504518A?.m3u8
+#EXTINF:0,Pluto TV Invasión Alien
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
+#EXTINF:0,Pluto TV Investiga
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
+#EXTINF:0,Pluto TV Investigação
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
+#EXTINF:0,Pluto TV Investigation
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
+#EXTINF:0,Pluto TV John Wayne
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-655ca7aa635c3c000855d655.m3u8
+#EXTINF:0,Pluto TV John Wayne
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-655ca99dfbc15b00081f209c.m3u8
+#EXTINF:0,Pluto TV John Wayne
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-655caaaac0fc8800086f5d99.m3u8
+#EXTINF:0,Pluto TV Junior (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8
+#EXTINF:0,Pluto TV Junior (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8
+#EXTINF:0,Pluto TV Junior
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
+#EXTINF:0,Pluto TV Junior
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
+#EXTINF:0,Pluto TV Juniorklubben (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8
+#EXTINF:0,Pluto TV Juniorklubben (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61c1d459fbb4b50007d24647.m3u8
+#EXTINF:0,Pluto TV Juniorklubben (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8
+#EXTINF:0,Pluto TV K-Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
+#EXTINF:0,Pluto TV Karaokê por Stingray (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
+#EXTINF:0,Pluto TV KFOOD
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
+#EXTINF:0,Pluto TV Kids (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
+#EXTINF:0,Pluto TV Kids
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
+#EXTINF:0,Pluto TV Kids
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
+#EXTINF:0,Pluto TV Kids
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8
+#EXTINF:0,Pluto TV Kids Classics (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
+#EXTINF:0,Pluto TV Kids Classics (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
+#EXTINF:0,Pluto TV Kids Club
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
+#EXTINF:0,Pluto TV Kids Club
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8
+#EXTINF:0,Pluto TV Klassiske tegnefilm (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
+#EXTINF:0,Pluto TV Klassiske tegnefilmer (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8
+#EXTINF:0,Pluto TV Komedi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8
+#EXTINF:0,Pluto TV Komedie
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61c1e3a679a4390007c78136.m3u8
+#EXTINF:0,Pluto TV Kult Comedies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
+#EXTINF:0,Pluto TV Kultfilm
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8
+#EXTINF:0,Pluto TV Kultfilme
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
+#EXTINF:0,Pluto TV Kultfilmer
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63dbe80f60bc8f0008aa7c78.m3u8
+#EXTINF:0,Pluto TV Kultfilmer
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63dbe8c8a9957100087798a3.m3u8
+#EXTINF:0,Pluto TV Legami Letali
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8
+#EXTINF:0,Pluto TV Lives
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
+#EXTINF:0,Pluto TV Love Stories
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f15e181520cfa000771ce79.m3u8
+#EXTINF:30,Pluto TV Mi Obsesión Favorita
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
+#EXTINF:0,Pluto TV Military
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
+#EXTINF:0,Pluto TV Minha Obsessão Favorita
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
+#EXTINF:0,Pluto TV Misterios
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
+#EXTINF:0,Pluto TV Mistérios
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
+#EXTINF:0,Pluto TV Motor
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
+#EXTINF:25,Pluto TV Motor+
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-GBAI5000001A?.m3u8
+#EXTINF:0,Pluto TV Movies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
+#EXTINF:0,Pluto TV Movies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8
+#EXTINF:0,Pluto TV Mystery
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
+#EXTINF:0,Pluto TV Natura
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+#EXTINF:0,Pluto TV Naturaleza
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+#EXTINF:0,Pluto TV Nature
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
+#EXTINF:0,Pluto TV Natureza
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
+#EXTINF:0,Pluto TV Negócio Fechado
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
+#EXTINF:0,Pluto TV Netmovies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
+#EXTINF:0,Pluto TV Nordic Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
+#EXTINF:0,Pluto TV Notti di Crimine
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6911c9b88caba6f046c5ca8f.m3u8
+#EXTINF:0,Pluto TV Notti di Passione
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8
+#EXTINF:0,Pluto TV Notti di Sangue
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8
+#EXTINF:0,Pluto TV Notti di Terrore
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8
+#EXTINF:0,Pluto TV Novelas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
+#EXTINF:0,Pluto TV Novelas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
+#EXTINF:0,Pluto TV Novelas de México
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+#EXTINF:0,Pluto TV Novelas de Otros Continentes
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
+#EXTINF:0,Pluto TV Novelas de Venezuela
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
+#EXTINF:0,Pluto TV Nuestro Cine
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
+#EXTINF:0,Pluto TV Overnaturlig
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61c1e74354d923000731bf7c.m3u8
+#EXTINF:0,Pluto TV Paisagens por Stingray (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
+#EXTINF:0,Pluto TV Paranormal
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
+#EXTINF:0,Pluto TV Paranormal
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8
+#EXTINF:0,Pluto TV Paranormal
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
+#EXTINF:0,Pluto TV Paranormal
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
+#EXTINF:0,Pluto TV Paranormal
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
+#EXTINF:0,Pluto TV Paranormal
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
+#EXTINF:0,Pluto TV Paranormal
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8
+#EXTINF:0,Pluto TV Paranormal
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8
+#EXTINF:0,Pluto TV Paranormal
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
+#EXTINF:0,Pluto TV Paranormal+
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-GBBA33000362J?.m3u8
+#EXTINF:0,Pluto TV Peleas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
+#EXTINF:0,Pluto TV PetrolHeads
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8
+#EXTINF:0,Pluto TV Polar
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
+#EXTINF:0,Pluto TV Polar+
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ffebbeabd18520007b37709.m3u8
+#EXTINF:0,Pluto TV Policial
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
+#EXTINF:0,Pluto TV Polizeiserien
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
+#EXTINF:0,Pluto TV Popkultur
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68ada399247c66a111528aaa.m3u8
+#EXTINF:0,Pluto TV Psycho
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
+#EXTINF:0,Pluto TV Reaction
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
+#EXTINF:0,Pluto TV Real Life
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
+#EXTINF:0,Pluto TV Real Life+
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-ITAJ3800006UB?.m3u8
+#EXTINF:0,Pluto TV Reality
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67922858b83355184c699699.m3u8
+#EXTINF:0,Pluto TV Reality
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67ebc1b6432a0e406f141341.m3u8
+#EXTINF:0,Pluto TV Reality
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61b87bc867b03a0007864e0d.m3u8
+#EXTINF:0,Pluto TV Reality
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8
+#EXTINF:0,Pluto TV Reality
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde197f6591d0009839e04.m3u8
+#EXTINF:0,Pluto TV Reality
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8
+#EXTINF:0,Pluto TV Reality
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d8bf0b06d2d855ee15115e3.m3u8
+#EXTINF:0,Pluto TV Record News (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
+#EXTINF:0,Pluto TV Reportagen
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
+#EXTINF:0,Pluto TV Retrô
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
+#EXTINF:0,Pluto TV Retro Crime Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8
+#EXTINF:0,Pluto TV Retro Kid
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
+#EXTINF:0,Pluto TV Retro Toons
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
+#EXTINF:0,Pluto TV Retro Toons
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
+#EXTINF:0,Pluto TV Romance
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
+#EXTINF:0,Pluto TV Romance
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d7677c0edace7cff8180b16.m3u8
+#EXTINF:0,Pluto TV Romance
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
+#EXTINF:0,Pluto TV Romance+
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-GBAK3504522A?.m3u8
+#EXTINF:0,Pluto TV Romantik
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8
+#EXTINF:0,Pluto TV Romantik
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8
+#EXTINF:0,Pluto TV Romantikk
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
+#EXTINF:0,Pluto TV Sanfte Berührungen
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67d983d6a1609bdb523f5f9b.m3u8
+#EXTINF:0,Pluto TV Scherzi e risate
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
+#EXTINF:0,Pluto TV Sci-fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
+#EXTINF:0,Pluto TV Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
+#EXTINF:0,Pluto TV Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
+#EXTINF:0,Pluto TV Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
+#EXTINF:0,Pluto TV Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
+#EXTINF:0,Pluto TV Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
+#EXTINF:0,Pluto TV Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8
+#EXTINF:0,Pluto TV Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
+#EXTINF:0,Pluto TV Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8
+#EXTINF:0,Pluto TV Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64b676a4798def00088e5150.m3u8
+#EXTINF:0,Pluto TV Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
+#EXTINF:0,Pluto TV Sci-fi Series
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
+#EXTINF:0,Pluto TV Science
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
+#EXTINF:0,Pluto TV Science
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
+#EXTINF:0,Pluto TV Science
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+#EXTINF:0,Pluto TV Serie
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
+#EXTINF:0,Pluto TV Serie
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
+#EXTINF:0,Pluto TV Serie Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
+#EXTINF:0,Pluto TV Serie Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
+#EXTINF:0,Pluto TV Serie+
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ddbf866b1862a0009a0648e.m3u8
+#EXTINF:0,Pluto TV Serie+
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-ITAJ3800007P8?.m3u8
+#EXTINF:0,Pluto TV Series
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
+#EXTINF:0,Pluto TV Series
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
+#EXTINF:0,Pluto TV Séries Ação
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
+#EXTINF:0,Pluto TV Séries Comédia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
+#EXTINF:0,Pluto TV Séries Criminais
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
+#EXTINF:0,Pluto TV Series criminales
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8
+#EXTINF:0,Pluto TV Series de Acción
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
+#EXTINF:0,Pluto TV Series de Comedia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8
+#EXTINF:0,Pluto TV Series de Crimen
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8
+#EXTINF:0,Pluto TV Series de Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-655f636d954b020008c93299.m3u8
+#EXTINF:0,Pluto TV Series de Otros Continentes
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8
+#EXTINF:0,Pluto TV Series de Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
+#EXTINF:0,Pluto TV Séries Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
+#EXTINF:0,Pluto TV Séries Fantastiques
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
+#EXTINF:0,Pluto TV Series Latinas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
+#EXTINF:0,Pluto TV Séries Novelescas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
+#EXTINF:0,Pluto TV Series Retro
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
+#EXTINF:0,Pluto TV Series Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
+#EXTINF:0,Pluto TV Séries Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
+#EXTINF:0,Pluto TV Sharks
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-669526d232e25300084bb47b.m3u8
+#EXTINF:0,Pluto TV Sherlock
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
+#EXTINF:0,Pluto TV Shore
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8
+#EXTINF:0,Pluto TV Shows por Stingray (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
+#EXTINF:0,Pluto TV Sitcoms
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
+#EXTINF:0,Pluto TV Sitcoms+
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5cd149f021cb6c55e258bbe8.m3u8
+#EXTINF:0,Pluto TV Snooker 900 (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
+#EXTINF:0,Pluto TV Snooker 900 (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8
+#EXTINF:0,Pluto TV Snooker 900 (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8
+#EXTINF:0,Pluto TV Snooker 900 (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8
+#EXTINF:0,Pluto TV Snooker 900 (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8
+#EXTINF:0,Pluto TV Snooker 900 (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8
+#EXTINF:0,Pluto TV Snooker 900 (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8
+#EXTINF:0,Pluto TV Snooker 900 (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
+#EXTINF:0,Pluto TV Snooker 900
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
+#EXTINF:0,Pluto TV Space
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
+#EXTINF:0,Pluto TV Space
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
+#EXTINF:0,Pluto TV Space
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
+#EXTINF:0,Pluto TV Sport
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
+#EXTINF:0,Pluto TV Sport
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
+#EXTINF:0,Pluto TV Sport
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
+#EXTINF:0,Pluto TV Sport
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
+#EXTINF:0,Pluto TV Spotlight
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8
+#EXTINF:0,Pluto TV Staff Picks
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
+#EXTINF:0,Pluto TV Star Trek
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
+#EXTINF:0,Pluto TV Star Trek
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
+#EXTINF:0,Pluto TV Star Trek
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8
+#EXTINF:0,Pluto TV Star Trek
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
+#EXTINF:0,Pluto TV Storia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
+#EXTINF:0,Pluto TV Super Kids
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
+#EXTINF:0,Pluto TV Tecknade klassiker (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8
+#EXTINF:0,Pluto TV Tecknat (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
+#EXTINF:0,Pluto TV Teen (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
+#EXTINF:0,Pluto TV Teen (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8
+#EXTINF:0,Pluto TV Teen (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
+#EXTINF:0,Pluto TV Tegnefilm (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
+#EXTINF:0,Pluto TV Tegnefilm (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8
+#EXTINF:0,Pluto TV Telenovelas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60b4c06717da110007ee1af6.m3u8
+#EXTINF:0,Pluto TV Telenovelas Clásicas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
+#EXTINF:0,Pluto TV Terror
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8
+#EXTINF:0,Pluto TV Terror Trash
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
+#EXTINF:0,Pluto TV Thriller
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5e1efdbf90ba3e0009d99082.m3u8
+#EXTINF:0,Pluto TV Thrillers
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
+#EXTINF:0,Pluto TV Thrillers
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8
+#EXTINF:0,Pluto TV Thrillers
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
+#EXTINF:0,Pluto TV Toons (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
+#EXTINF:0,Pluto TV Toons
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6880aa28164eb4890282e803.m3u8
+#EXTINF:0,Pluto TV Totò
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
+#EXTINF:0,Pluto TV Trending Now
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
+#EXTINF:0,Pluto TV True Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
+#EXTINF:0,Pluto TV True Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
+#EXTINF:0,Pluto TV True Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8
+#EXTINF:0,Pluto TV True Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8
+#EXTINF:0,Pluto TV True Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
+#EXTINF:0,Pluto TV True Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
+#EXTINF:0,Pluto TV True Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-615333098185f00008715a56.m3u8
+#EXTINF:0,Pluto TV True Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
+#EXTINF:0,Pluto TV Turbo
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
+#EXTINF:0,Pluto TV Ungdomsserier (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8
+#EXTINF:0,Pluto TV Ungdomsserier (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8
+#EXTINF:0,Pluto TV Ungdomsserier (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8
+#EXTINF:0,Pluto TV Världskrigen
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
+#EXTINF:0,Pluto TV Velocidad
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
+#EXTINF:0,Pluto TV Verdenskrigene
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8
+#EXTINF:0,Pluto TV Verdenskrigene
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
+#EXTINF:0,Pluto TV Viagens
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
+#EXTINF:0,Pluto TV Viaggi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
+#EXTINF:0,Pluto TV Vida Real
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8
+#EXTINF:0,Pluto TV Vida Real
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
+#EXTINF:0,Pluto TV Weddings
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61923bd34b1ec000075e5e89.m3u8
+#EXTINF:0,Pluto TV Western
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
+#EXTINF:0,Pluto TV Western
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
+#EXTINF:0,Pluto TV Western
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
+#EXTINF:0,Pluto TV Westerns
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
+#EXTINF:0,Pluto TV Westerns
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
+#EXTINF:0,Pluto TV Westerns
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
+#EXTINF:0,Pluto TV Wild West
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
+#EXTINF:0,Pluto TV Wild West
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8
+#EXTINF:0,Pluto TV Wild West
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
+#EXTINF:0,Pluto TV Wildest Adventures
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Rakuten Documentários (1080p)
+#EXTVLCOPT:network-caching=1000
+https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8
+#EXTINF:0,Rakuten Família (1080p)
+#EXTVLCOPT:network-caching=1000
+https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
+#EXTINF:0,Rakuten Top Movies UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:0,Rakuten TV Action Movies Austria (720p)
+#EXTVLCOPT:network-caching=1000
+https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8
+#EXTINF:0,Rakuten TV Action Movies Finland (1080p)
+#EXTVLCOPT:network-caching=1000
+https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8
+#EXTINF:0,Rakuten TV Action Movies Germany (1080p)
+#EXTVLCOPT:network-caching=1000
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+#EXTINF:0,Rakuten TV Action Movies Italy (1080p)
+#EXTVLCOPT:network-caching=1000
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+#EXTINF:0,Rakuten TV Action Movies Spain (1080p)
+#EXTVLCOPT:network-caching=1000
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+#EXTINF:0,Rakuten TV Action Movies UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:0,Rakuten TV Alerte Cobra (1080p)
+#EXTVLCOPT:network-caching=1000
+https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8
+#EXTINF:0,Rakuten TV Asian Cinema Italy (1080p)
+#EXTVLCOPT:network-caching=1000
+https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8
+#EXTINF:0,Rakuten TV Cine Español (1080p)
+#EXTVLCOPT:network-caching=1000
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+#EXTINF:0,Rakuten TV Comedy Movies Austria (720p)
+#EXTVLCOPT:network-caching=1000
+https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8
+#EXTINF:0,Rakuten TV Comedy Movies Finland (1080p)
+#EXTVLCOPT:network-caching=1000
+https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8
+#EXTINF:0,Rakuten TV Comedy Movies Germany (1080p)
+#EXTVLCOPT:network-caching=1000
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+#EXTINF:0,Rakuten TV Comedy Movies Italy (1080p)
+#EXTVLCOPT:network-caching=1000
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+#EXTINF:0,Rakuten TV Comedy Movies Spain (1080p)
+#EXTVLCOPT:network-caching=1000
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+#EXTINF:0,Rakuten TV Comedy Movies UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:0,Rakuten TV Crime Series Germany (1080p)
+#EXTVLCOPT:network-caching=1000
+https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8
+#EXTINF:0,Rakuten TV Crime Series Italy (1080p)
+#EXTVLCOPT:network-caching=1000
+https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8
+#EXTINF:0,Rakuten TV Crime Series Spain (1080p)
+#EXTVLCOPT:network-caching=1000
+https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
+#EXTINF:0,Rakuten TV Drama Movies Austria (720p)
+#EXTVLCOPT:network-caching=1000
+https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8
+#EXTINF:0,Rakuten TV Drama Movies Finland (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8
+#EXTINF:0,Rakuten TV Drama Movies Germany (1080p)
+#EXTVLCOPT:network-caching=1000
+https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
+#EXTINF:0,Rakuten TV Drama Movies Italy (1080p)
+#EXTVLCOPT:network-caching=1000
+https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
+#EXTINF:0,Rakuten TV Drama Movies Spain (1080p)
+#EXTVLCOPT:network-caching=1000
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+#EXTINF:0,Rakuten TV Drama Movies UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:0,Rakuten TV Family Movies Austria (720p)
+#EXTVLCOPT:network-caching=1000
+https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8
+#EXTINF:0,Rakuten TV Family Movies Finland (1080p)
+#EXTVLCOPT:network-caching=1000
+https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8
+#EXTINF:0,Rakuten TV Family Movies Germany (1080p)
+#EXTVLCOPT:network-caching=1000
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+#EXTINF:0,Rakuten TV Family Movies Italy (1080p)
+#EXTVLCOPT:network-caching=1000
+https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+#EXTINF:0,Rakuten TV Family Movies Spain (1080p)
+#EXTVLCOPT:network-caching=1000
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+#EXTINF:0,Rakuten TV Family Movies UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:0,Rakuten TV Family Switzerland (720p)
+#EXTVLCOPT:network-caching=1000
+https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8
+#EXTINF:0,Rakuten TV Films Action (720p)
+#EXTVLCOPT:network-caching=1000
+https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
+#EXTINF:0,Rakuten TV Films Comédie (720p)
+#EXTVLCOPT:network-caching=1000
+https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
+#EXTINF:0,Rakuten TV Films Drames (720p)
+#EXTVLCOPT:network-caching=1000
+https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
+#EXTINF:0,Rakuten TV Films Famille (1080p)
+#EXTVLCOPT:network-caching=1000
+https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
+#EXTINF:0,Rakuten TV Films Français (720p)
+#EXTVLCOPT:network-caching=1000
+https://499fde1f527c4ce9af8917b3ee7a217a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_Local/playlist.m3u8
+#EXTINF:0,Rakuten TV Films Romance (720p)
+#EXTVLCOPT:network-caching=1000
+https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
+#EXTINF:0,Rakuten TV Films Thriller (720p)
+#EXTVLCOPT:network-caching=1000
+https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
+#EXTINF:0,Rakuten TV German Cinema (1080p)
+#EXTVLCOPT:network-caching=1000
+https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8
+#EXTINF:0,Rakuten TV Nordic Films (1080p)
+#EXTVLCOPT:network-caching=1000
+https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8
+#EXTINF:0,Rakuten TV Reality UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
+#EXTINF:0,Rakuten TV Romance Movies Finland (1080p)
+#EXTVLCOPT:network-caching=1000
+https://romance-rakuten-tv-fi.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
+#EXTINF:0,Rakuten TV Romance Movies Germany (1080p)
+#EXTVLCOPT:network-caching=1000
+https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
+#EXTINF:0,Rakuten TV Romance Movies Italy (1080p)
+#EXTVLCOPT:network-caching=1000
+https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
+#EXTINF:0,Rakuten TV Romance Movies Spain (1080p)
+#EXTVLCOPT:network-caching=1000
+https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
+#EXTINF:0,Rakuten TV Romance Movies UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
+#EXTINF:0,Rakuten TV Sci-Fi Italy (1080p)
+#EXTVLCOPT:network-caching=1000
+https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
+#EXTINF:0,Rakuten TV Sci-Fi Spain (1080p)
+#EXTVLCOPT:network-caching=1000
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+#EXTINF:0,Rakuten TV Sci-Fi UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
+#EXTINF:0,Rakuten TV Séries Crime (720p)
+#EXTVLCOPT:network-caching=1000
+https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8
+#EXTINF:0,Rakuten TV Thrillers Germany (1080p)
+#EXTVLCOPT:network-caching=1000
+https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8
+#EXTINF:0,Rakuten TV Thrillers Spain (1080p)
+#EXTVLCOPT:network-caching=1000
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
+#EXTINF:0,Rakuten TV Thrillers UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
+#EXTINF:0,Rakuten TV Top Films France (720p)
+#EXTVLCOPT:network-caching=1000
+https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
+#EXTINF:0,Rakuten TV Top Movies Finland (1080p)
+#EXTVLCOPT:network-caching=1000
+https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
+#EXTINF:0,Rakuten TV Top Movies Germany (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+#EXTINF:0,Rakuten TV Top Movies Italy (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
+#EXTINF:0,Rakuten TV Top Movies Spain (1080p)
+#EXTVLCOPT:network-caching=1000
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+#EXTINF:0,Rakuten TV Viki Europe (720p)
+#EXTVLCOPT:network-caching=1000
+https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten VIKI
+#EXTVLCOPT:network-caching=1000
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+#EXTINF:0,Rakuten Viki (1080p)
+#EXTVLCOPT:network-caching=1000
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten Viki (1080p)
+https://jmp2.uk/plu-65f0166566eec80008b96f7e.m3u8
+
