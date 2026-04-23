@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0, PRUEBA 4K Chencho 
 #EXTVLCOPT:network-caching=1000
-ftp://lapiti:Lpt2022!@109.235.18.207:2121/ELIAS/4k prueba.mp4
+https://rondallatrieta.es/grupo/partituras/4kprueba.mp4
 
 #EXTINF:0, IV CERTAMEN INTERNACIONAL DE CUARENTUNAS JUMILLA-1 
 #EXTVLCOPT:network-caching=1000
