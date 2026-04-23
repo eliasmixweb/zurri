@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1, PARTIDOS FACU
 #EXTVLCOPT:network-caching=1000
+ftp://lapiti:Lpt2022!@109.235.18.207:2121/ELIAS/Jumilla2.mp4
+#EXTINF:-1, PARTIDOS FACU
+#EXTVLCOPT:network-caching=1000
 https://www.laligaplus.laliga.com/
 
 #EXTINF:0,24/7 Canal de Noticias
