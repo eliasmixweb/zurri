@@ -1,17 +1,8 @@
 #EXTM3U
-#EXTINF:0, prueba4kChencho 
-#EXTVLCOPT:network-caching=1000
-https://rondallatrieta.es/grupo/partituras/4kprueba.mp4
+#EXTINF:0, FACU galega
+https://www.agalega.gal/videos/77550-tv-g2
 
-#EXTINF:0, IV CERTAMEN INTERNACIONAL DE CUARENTUNAS JUMILLA-1 
-#EXTVLCOPT:network-caching=1000
-ftp://lapiti:Lpt2022!@109.235.18.207:2121/ELIAS/Jumilla1.mp4
-
-#EXTINF:0, IV CERTAMEN INTERNACIONAL DE CUARENTUNAS JUMILLA-2
-#EXTVLCOPT:network-caching=1000
-ftp://lapiti:Lpt2022!@109.235.18.207:2121/ELIAS/Jumilla2.mp4
-
-#EXTINF:-1, PARTIDOS FACU
+#EXTINF:-1, PARTIDOS FACU laliga+
 #EXTVLCOPT:network-caching=1000
 https://www.laligaplus.laliga.com/
 
